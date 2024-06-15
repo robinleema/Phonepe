@@ -1,7 +1,3 @@
-# Phonepe
-Phonepe Pulse Data Visualization and Exploration
-
-markdown
 # PhonePe Pulse Data Visualization and Exploration
 
 ## Overview
