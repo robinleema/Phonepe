@@ -25,11 +25,6 @@ This project involves the visualization and exploration of the PhonePe Pulse dat
 - Customizable themes for the Streamlit app
 - Easy to use interface for exploring PhonePe Pulse data
 
-
-## Data
-    The data used in this project is sourced from PhonePe Pulse. Make sure you have the data in the correct format before running the app. You can download the data from the PhonePe 
-    Pulse website.
-
 ## Project Steps
 
 1. **Data Collection:**
